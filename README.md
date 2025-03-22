@@ -32,9 +32,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For spørgsmål eller råd om viderudvikling af system:
 ### Ejeren af repository
-- [GitHub](https://github.com/maztas-tech)
+- [GitHub](https://github.com/jawadaf)
 
 ### Samarbejdspartnere 
 - [GitHub](https://github.com/saal0001)
 - [GitHub](https://github.com/geof96)
-- [GitHub](https://github.com/jawadaf)
+- [GitHub](https://github.com/maztas-tech)
